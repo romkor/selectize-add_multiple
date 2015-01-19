@@ -1,0 +1,20 @@
+{
+  "name": "selectize_add_multiple",
+  "version": "0.0.0",
+  "homepage": "https://github.com/romkor/selectize-add_multiple",
+  "authors": [
+    "roman <romko.ua@gmail.com>"
+  ],
+  "main": "plugin.js",
+  "keywords": [
+    "selectize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
